@@ -16,8 +16,8 @@ I’m a researcher and scientist with over 11 years of experience in computation
 
 -Mentoring, teaching, and managing projects across international teams
 
-**Current Role
-**
+**Current Role**
+
 Senior Scientist @ Superdielectrics Ltd. (Cambridge, UK)
 
 Leading simulation efforts in energy storage systems and contributing to material optimization and design.
