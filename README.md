@@ -1,8 +1,8 @@
 ## Heya, this is Marcel.
 
-🔬 Senior Scientist | PhD in Chemical Engineering
+Senior Scientist | PhD in Chemical Engineering
 
-💡 Specializing in Materials Innovation, Molecular Simulations, and Machine Learning in Materials space
+Specializing in Materials Innovation, Molecular Simulations, and Machine Learning in Materials space
 
 I’m a researcher and scientist with over 11 years of experience in computational materials science and molecular modeling, currently focusing on next-generation energy storage materials. My work spans:
 
